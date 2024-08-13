@@ -69,11 +69,11 @@ game.keydown = function (event) {
       case 32:
         // Detect double jump
         const time = new Date().getTime();
-        if (time - lastPressedSpace < doublePressedTime) {
-          game.player.doubleJump();
-        } else {
-          game.player.jump();
-        }
+
+        time - lastPressedSpace < doublePressedTime
+          ? game.player.doubleJump()
+          : game.player.jump();
+
         lastPressedSpace = time;
         break;
     }
