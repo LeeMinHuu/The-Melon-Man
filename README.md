@@ -7,6 +7,11 @@ Use space to jump, and A, D or arrows to move left / right.
 
 [> DEMO <](https://leeminhuu.github.io/The-Melon-Man/)
 
+
+# CHANGELOG (20240814)
+1/ Add 1 new platform.
+2/ Add double Jump by pressed 2 Space
+
 # For contributors
 
 ## How to add a new platform?
