@@ -9,8 +9,8 @@ Use space to jump, and A, D or arrows to move left / right.
 
 
 # CHANGELOG (20240814)
-1/ Add 1 new platform.
-2/ Add double Jump by pressed 2 Space
+1. Add 1 new platform
+2. Add double Jump by pressed 2 Space
 
 # For contributors
 
